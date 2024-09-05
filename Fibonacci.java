@@ -2,7 +2,7 @@ public class Fibonacci {
     public static void main(String[] args) {
         int n = 55; // AQUI PUEDE CAMBIAR EL VALOR QUE QUIERE CALCULAR
         int result = fibonacciIterativo(n);
-        System.out.println("El " + n + "numero de Fibonacci es: " + result);
+        System.out.println("El " + n +  "numero de Fibonacci es: " + result);
     }
 
     public static int fibonacciIterativo(int n) {
